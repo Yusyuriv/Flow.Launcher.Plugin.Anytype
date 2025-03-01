@@ -1,0 +1,12 @@
+{
+    "ID": "63871d9d-0a4a-44ff-83d2-208b4dcddf9d",
+    "ActionKeyword": "any",
+    "Name": "Flow.Launcher.Plugin.Anytype",
+    "Description": "A plugin that allows you to interact with Anytype",
+    "Author": "Yusyuriv",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Yusyuriv/Flow.Launcher.Plugin.Anytype",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.Anytype.dll"
+}
